@@ -17,5 +17,3 @@
 ![知应知识库管理](docs/screenshots/knowledge.jpg)
 
 当前版本用于本地演示。会话接入、人工接管和工作流草稿可体验。工作流的发布与执行尚未实现，真实模型问答仍待验收。
-
-知应的本地原型基于 [TGO](https://github.com/tgoai/tgo) 的前端构建，使用独立的 Node.js 服务和 SQLite 数据库。此仓库提供产品介绍和界面演示。
